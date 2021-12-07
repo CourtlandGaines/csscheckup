@@ -1,0 +1,15 @@
+/* I want this to be yellow */
+body {
+    background-color: yellow;
+}
+
+/* i want this to be green */
+.css-check {
+    background-color: lightgreen;
+}
+
+/* Rule 1 */
+.Thing-One {
+    color: lightsalmon;
+
+}
